@@ -14,7 +14,7 @@ Here, I examine the role of party dynamics in the gendered allocation of cabinet
 ## What I'm learning 🤔
 
 - Always looking for good resources to improve my 🐍 Python skills (am mostly self-taught).
-- Just started learning 💻 web scraping with R - still figuring out how to write code that is applicable to more than one specific website.
+- Just started learning 💻 web scraping with R - currently figuring out how to write code that is applicable to more than one specific website.
 - The ins and outs of ↕️ multi-level modeling and hierarchical data.
 - Also sewing, making the perfect seitan from scratch, and a bit of Chinese.
 
@@ -28,10 +28,15 @@ Here, I examine the role of party dynamics in the gendered allocation of cabinet
 
 ## Professional experience 👩‍🚀 (selection)
 
-- Freelance evaluation consultant, 2020-21
-- Carlo-Schmid-Fellow @ UNAIDS Ethiopia, 2019-20
-- Working student @ medica mondiale e.V., evaluation & quality department, 2018-19
-- Working student @ German Institute for Development Evaluation, 2016 
+- **Freelance evaluation consultant**, 2020-21
+- **Carlo-Schmid-Fellow @ UNAIDS Ethiopia**, 2019-20
+- **Working student @ medica mondiale e.V.**, evaluation & quality department, 2018-19
+- **Working student @ German Institute for Development Evaluation**, 2016
+
+## How to contact me
+
+Find me on the [**CCCP homepage**](https://cccp.uni-koeln.de/de/team/doctoral-researchers/helena-heberer), 
+[**LinkedIn**](https://www.linkedin.com/in/helena-heberer-31b443184/), and [**Twitter**](https://twitter.com/hebsiesie).
 <!--
 **hheb/hheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

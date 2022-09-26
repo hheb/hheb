@@ -2,7 +2,7 @@
 
 I am a PhD researcher @[**Cologne Center for Comparative Politics**](https://cccp.uni-koeln.de/). My research interests are ♀️ women and political leadership, gendered power, and gendered institutions ♀️. For now, I am focusing on quantitative and machine learning methods in R and Python. My supervisor is 🔥 [**Chitralekha Basu**](https://www.chitralekhabasu.com/).
 
-I am also an impact evaluator, with a focus on feminist, trauma sensitive, and qualitative methodologies. Formerly @[**medica mondiale**](https://medicamondiale.org/en) and UNAIDS.
+I am also an impact evaluator, with a focus on feminist, trauma sensitive, and qualitative methodologies. Formerly @[**medica mondiale e.V.**](https://medicamondiale.org/en) and UNAIDS.
 
 Also I like 🐱 cats, 🌶️ sichuan food, and 👚 vintage clothes.
 
@@ -18,13 +18,20 @@ Here, I examine the role of party dynamics in the gendered allocation of cabinet
 - The ins and outs of ↕️ multi-level modeling and hierarchical data.
 - Also sewing, making the perfect seitan from scratch, and a bit of Chinese.
 
-## Education
+## Education 🎓
 
 - 🥳 **PhD in Political Science,** University of Cologne, 2024 (expected)
-- 🎓 **M.A. Political Sciences,** University of Cologne, 2019
+- 🧠 **M.A. Political Sciences,** University of Cologne, 2019
 - 🥐 **ERASMUS Semester,** SciencesPo Paris, 2017
 - 📚 **B.A. Social Sciences,** University of Cologne, 2015
 - 🌍 **Semester Study Abroad,** University of Cape Town, 2014
+
+## Professional experience 👩‍🚀 (selection)
+
+- Freelance evaluation consultant, 2020-21
+- Carlo-Schmid-Fellow @ UNAIDS Ethiopia, 2019-20
+- Working student @ medica mondiale e.V., evaluation & quality department, 2018-19
+- Working student @ German Institute for Development Evaluation, 2016 
 <!--
 **hheb/hheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

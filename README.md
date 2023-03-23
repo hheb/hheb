@@ -2,21 +2,19 @@
 
 I am a PhD researcher @[**Cologne Center for Comparative Politics**](https://cccp.uni-koeln.de/). My research interests are ♀️ women and political leadership, gendered power, and gendered institutions ♀️. For now, I am focusing on quantitative and machine learning methods in R and Python. My supervisor is 🔥 [**Chitralekha Basu**](https://www.chitralekhabasu.com/).
 
-I am also an impact evaluator, with a focus on feminist, trauma sensitive, and qualitative methodologies. Formerly @[**medica mondiale e.V.**](https://medicamondiale.org/en) and UNAIDS.
-
 Also I like 🐱 cats, 🌶️ sichuan food, and 👚 vintage clothes.
 
 ## What I'm working on ✍️
 
-**"The gendered dynamics of cabinet formation: Parties, portfolios, and power"**:
-Here, I examine the role of party dynamics in the gendered allocation of cabinet portfolios. In coalition governments, it is the constituting parties rather than the head of government who decide ”who gets what” in the cabinet. As party elites are more likely to be male, I argue that during the early rounds of coalition negotiations, many of the most important ministerial positions are claimed by men. I find that while portfolio importance does not have a straightforward impact on the allocation of cabinet portfolios to women, women in party leadership positions have a very significant positive impact on women’s representation. This finding suggests that more analytical attention directed at who holds power in the process of portfolio allocation contributes to our understanding of persistent gender inequalities at the highest levels of government.
+**“Parties, portfolios, and power”**: This project examines the role of parties in the gendered dynamics of portfolio allocation in coalition governments. I am interested in the impact of women party leaders in the appointment of women to the most powerful cabinet positions.
+
+**“Using word embeddings to uncover gender bias in political speech”**: Building on recent literature that examines social biases in word embedding models, I develop an approach to quantify gender bias in political speech.
 
 ## What I'm learning 🤔
 
-- Always looking for good resources to improve my 🐍 Python skills (am mostly self-taught).
 - Just started learning 💻 web scraping with R - currently figuring out how to write code that is applicable to more than one specific website.
 - The ins and outs of ↕️ multi-level modeling and hierarchical data.
-- Also sewing, making the perfect seitan from scratch, and a bit of Chinese.
+- Applying word embedding models to political text.
 
 ## Education 🎓
 

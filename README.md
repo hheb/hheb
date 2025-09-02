@@ -2,7 +2,7 @@
 
 I am a PhD researcher @[**Cologne Center for Comparative Politics**](https://cccp.uni-koeln.de/). My research interests are ♀️ women and political leadership, gendered power, and gendered institutions ♀️. For now, I am focusing on quantitative and machine learning methods in R and Python. My supervisor is 🔥 [**Chitralekha Basu**](https://www.chitralekhabasu.com/).
 
-Also I like 🐱 cats, 🌶️ sichuan food, and 👚 vintage clothes.
+Also I like 🐱 cats, 🌶️ sichuan food, and 👚 vintage clothes. And I'm a mom to an amazing 👼​ little boy.
 
 ## What I'm working on ✍️
 
@@ -17,7 +17,7 @@ Also I like 🐱 cats, 🌶️ sichuan food, and 👚 vintage clothes.
 
 ## Education 🎓
 
-- 🥳 **PhD in Political Science,** University of Cologne, 2024 (expected)
+- 🥳 **PhD in Political Science,** University of Cologne, 2026 (expected)
 - 🧠 **M.A. Political Sciences,** University of Cologne, 2019
 - 🥐 **ERASMUS Semester,** SciencesPo Paris, 2017
 - 📚 **B.A. Social Sciences,** University of Cologne, 2015

@@ -32,8 +32,7 @@ Also I like 🐱 cats, 🌶️ sichuan food, and 👚 vintage clothes. And I'm a
 
 ## How to contact me
 
-Find me on the [**web**](https://hheb.github.io/), the [**CCCP homepage**](https://cccp.uni-koeln.de/de/team/doctoral-researchers/helena-heberer), and  
-[**LinkedIn**](https://www.linkedin.com/in/helena-heberer-31b443184/).
+Find me on the [**web**](https://hheb.github.io/), the [**CCCP homepage**](https://cccp.uni-koeln.de/de/team/doctoral-researchers/helena-heberer), and [**LinkedIn**](https://www.linkedin.com/in/helena-heberer-31b443184/).
 <!--
 **hheb/hheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
